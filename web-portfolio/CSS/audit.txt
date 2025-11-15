@@ -1,0 +1,8 @@
+Is my navigation menu clear and easy to find on every page?
+Yes – The navigation bar is consistently placed at the top of each page with clear labels.
+
+Is there a clear visual hierarchy? (e.g., Are <h1> headings obviously more important than <h2> headings?)
+Yes – Headings follow a logical structure, with <h1> larger and more prominent than <h2> and <h3>.
+
+Is the text easy to read? (Consider font size, line spacing, and color contrast).
+Yes – The font size is legible, line spacing is comfortable, and color contrast meets accessibility standards.
